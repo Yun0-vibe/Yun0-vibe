@@ -5,7 +5,7 @@
 **17 y/o CEO of Strenox Foundation — I prompt first, then ship production.**
 
 [![Portfolio](https://img.shields.io/badge/🌐_vibeyuno.me-65A30D?style=for-the-badge&logoColor=white)](https://vibeyuno.me)
-[![Discord](https://img.shields.io/badge/Discord-darkwiz.vibe-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/darkwiz.vibe)
+[![Discord](https://img.shields.io/badge/Discord-yuno_vibe.exe-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/darkwiz.vibe)
 [![Email](https://img.shields.io/badge/Email-contact@vibeyuno.me-C2410C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@vibeyuno.me)
 [![GitHub](https://img.shields.io/badge/GitHub-Yun0--vibe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yun0-vibe)
 
