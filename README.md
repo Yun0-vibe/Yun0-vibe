@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=65A30D&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arjan+%F0%9F%91%8B;Vibe+Coder+%26+AI+Prompter;Minecraft+Plugin+Developer;Game+Panels+%2B+Bots+%2B+Web;Always+Learning+%26+Building)](https://git.io/typing-svg)
 
-**17 y/o developer from Kathmandu, Nepal — I prompt first, then ship production.**
+**17 y/o developer — I prompt first, then ship production.**
 
 [![Portfolio](https://img.shields.io/badge/🌐_vibeyuno.me-65A30D?style=for-the-badge&logoColor=white)](https://vibeyuno.me)
 [![Discord](https://img.shields.io/badge/Discord-darkwiz.vibe-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/darkwiz.vibe)
@@ -20,7 +20,6 @@
 ```yaml
 name: Arjan Subedi
 aka: YUNO / Yun0-vibe
-based: Kathmandu, Nepal (UTC +5:45)
 role: Developer & AI Prompter
 philosophy:
   - Vibe and flow — code should feel alive
