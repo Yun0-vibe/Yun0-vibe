@@ -92,16 +92,6 @@ fun_fact: "CEO by title, debugger by profession."
 
 </div>
 
-<div align="center">
-
-[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Yun0-vibe&repo=portfolio&bg_color=00000000&title_color=65a30d&text_color=6b7280&border_color=65a30d55)](https://github.com/Yun0-vibe/portfolio)
-[![aerolicense](https://github-readme-stats.vercel.app/api/pin/?username=Yun0-vibe&repo=aerolicense&bg_color=00000000&title_color=65a30d&text_color=6b7280&border_color=65a30d55)](https://github.com/Yun0-vibe/aerolicense)
-<br />
-[![aeroxdp](https://github-readme-stats.vercel.app/api/pin/?username=Yun0-vibe&repo=aeroxdp&bg_color=00000000&title_color=65a30d&text_color=6b7280&border_color=65a30d55)](https://github.com/Yun0-vibe/aeroxdp)
-[![strenoxcloud](https://github-readme-stats.vercel.app/api/pin/?username=Yun0-vibe&repo=strenoxcloud&bg_color=00000000&title_color=65a30d&text_color=6b7280&border_color=65a30d55)](https://github.com/Yun0-vibe/strenoxcloud)
-
-</div>
-
 ---
 
 ### 🐍 Watch the snake eat my contributions
