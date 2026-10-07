@@ -1,15 +1,15 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=65A30D&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arjan+%F0%9F%91%8B;CEO+of+Strenox+Foundation;Vibe+Coder+%26+AI+Prompter;Minecraft+Plugins+%2B+Game+Infra;Always+Shipping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=9333EA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arjan+%F0%9F%91%8B;CEO+of+Strenox+Foundation;Vibe+Coder+%26+AI+Prompter;Minecraft+Plugins+%2B+Game+Infra;Always+Shipping)](https://git.io/typing-svg)
 
 **17 y/o CEO of Strenox Foundation — I prompt first, then ship production.**
 
-[![Portfolio](https://img.shields.io/badge/🌐_vibeyuno.me-65A30D?style=for-the-badge&logoColor=white)](https://vibeyuno.me)
+[![Portfolio](https://img.shields.io/badge/🌐_vibeyuno.me-9333EA?style=for-the-badge&logoColor=white)](https://vibeyuno.me)
 [![Discord](https://img.shields.io/badge/Discord-yuno_vibe.exe-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1477842856822571048)
 [![Email](https://img.shields.io/badge/Email-contact@vibeyuno.me-C2410C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@vibeyuno.me)
 [![GitHub](https://img.shields.io/badge/GitHub-Yun0--vibe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yun0-vibe)
 
-![Profile views](https://komarev.com/ghpvc/?username=Yun0-vibe&color=65A30D&style=flat-square&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=Yun0-vibe&color=9333EA&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -81,14 +81,14 @@ fun_fact: "CEO by title, debugger by profession."
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yun0-vibe&show_icons=true&bg_color=00000000&title_color=65a30d&text_color=6b7280&icon_color=65a30d&border_color=65a30d55&hide_border=false&count_private=true" />
-<img height="170" src="https://streak-stats.demolab.com?user=Yun0-vibe&background=00000000&ring=65a30d&fire=65a30d&currStreakLabel=6b7280&sideNums=6b7280&currStreakNum=111827&sideLabels=6b7280&dates=6b7280&border=65a30d55" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yun0-vibe&show_icons=true&bg_color=00000000&title_color=9333ea&text_color=6b7280&icon_color=9333ea&border_color=9333ea55&hide_border=false&count_private=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=Yun0-vibe&background=00000000&ring=9333ea&fire=9333ea&currStreakLabel=6b7280&sideNums=6b7280&currStreakNum=111827&sideLabels=6b7280&dates=6b7280&border=9333ea55" />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yun0-vibe&layout=compact&bg_color=00000000&title_color=65a30d&text_color=6b7280&border_color=65a30d55&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yun0-vibe&layout=compact&bg_color=00000000&title_color=9333ea&text_color=6b7280&border_color=9333ea55&langs_count=8" />
 
 <div align="center">
 
-[![Followers](https://img.shields.io/github/followers/Yun0-vibe?style=for-the-badge&label=FOLLOWERS&color=65A30D&logo=github)](https://github.com/Yun0-vibe?tab=followers)
+[![Followers](https://img.shields.io/github/followers/Yun0-vibe?style=for-the-badge&label=FOLLOWERS&color=9333EA&logo=github)](https://github.com/Yun0-vibe?tab=followers)
 
 </div>
 
