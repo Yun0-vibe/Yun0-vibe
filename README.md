@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=65A30D&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arjan+%F0%9F%91%8B;Vibe+Coder+%26+AI+Prompter;Minecraft+Plugin+Developer;Game+Panels+%2B+Bots+%2B+Web;Always+Learning+%26+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=65A30D&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arjan+%F0%9F%91%8B;CEO+of+Strenox+Foundation;Vibe+Coder+%26+AI+Prompter;Minecraft+Plugins+%2B+Game+Infra;Always+Shipping)](https://git.io/typing-svg)
 
-**17 y/o developer — I prompt first, then ship production.**
+**17 y/o CEO of [Strenox Foundation](https://github.com/Yun0-vibe/portfolio) — I prompt first, then ship production.**
 
 [![Portfolio](https://img.shields.io/badge/🌐_vibeyuno.me-65A30D?style=for-the-badge&logoColor=white)](https://vibeyuno.me)
 [![Discord](https://img.shields.io/badge/Discord-darkwiz.vibe-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/darkwiz.vibe)
@@ -20,16 +20,21 @@
 ```yaml
 name: Arjan Subedi
 aka: YUNO / Yun0-vibe
-role: Developer & AI Prompter
+role: Founder & CEO, Strenox Foundation
+foundation:
+  - StrenoxCloud Hosting      # live — game-server cloud
+  - StrenoxDevelopment        # active — plugins, panels, infra
+  - StrenoxMC                 # upcoming — community MC server
+retired: AeroVibe Studio      # officially shut down, all merged into Strenox
 philosophy:
   - Vibe and flow — code should feel alive
   - Prompt-first execution, human-reviewed output
-  - Practical experience over titles
+  - Systems that stay up, not demos that break
 currently:
   - 🔥 Building BattlePass Live (Paper 1.21 battle-pass plugin)
-  - 🛡️ Running AeroDDoS XDP firewall + license infra
-  - 🌐 Shipping web platforms & Discord bots
-fun_fact: "I break things → panic → ask AI → pretend it was the plan all along."
+  - 🛡️ Running Strenox DDoS Migration (XDP firewall) + license infra
+  - ☁️ Scaling StrenoxCloud Hosting
+fun_fact: "CEO by title, debugger by profession."
 ```
 
 ---
@@ -81,9 +86,19 @@ fun_fact: "I break things → panic → ask AI → pretend it was the plan all a
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yun0-vibe&layout=compact&bg_color=00000000&title_color=65a30d&text_color=6b7280&border_color=65a30d55&langs_count=8" />
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Yun0-vibe&theme=flat&no-frame=true&no-bg=true&column=6&title=Stars,Followers,Repositories,Commits,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yun0-vibe&bg_color=00000000&color=65a30d&line=65a30d&point=65a30d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Followers](https://img.shields.io/github/followers/Yun0-vibe?style=for-the-badge&label=FOLLOWERS&color=65A30D&logo=github)](https://github.com/Yun0-vibe?tab=followers)
+
+</div>
+
+<div align="center">
+
+[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Yun0-vibe&repo=portfolio&bg_color=00000000&title_color=65a30d&text_color=6b7280&border_color=65a30d55)](https://github.com/Yun0-vibe/portfolio)
+[![aerolicense](https://github-readme-stats.vercel.app/api/pin/?username=Yun0-vibe&repo=aerolicense&bg_color=00000000&title_color=65a30d&text_color=6b7280&border_color=65a30d55)](https://github.com/Yun0-vibe/aerolicense)
+<br />
+[![aeroxdp](https://github-readme-stats.vercel.app/api/pin/?username=Yun0-vibe&repo=aeroxdp&bg_color=00000000&title_color=65a30d&text_color=6b7280&border_color=65a30d55)](https://github.com/Yun0-vibe/aeroxdp)
+[![strenoxcloud](https://github-readme-stats.vercel.app/api/pin/?username=Yun0-vibe&repo=strenoxcloud&bg_color=00000000&title_color=65a30d&text_color=6b7280&border_color=65a30d55)](https://github.com/Yun0-vibe/strenoxcloud)
 
 </div>
 
@@ -106,12 +121,12 @@ fun_fact: "I break things → panic → ask AI → pretend it was the plan all a
 | Project | What | Stack |
 |---|---|---|
 | [portfolio](https://github.com/Yun0-vibe/portfolio) | My site — [vibeyuno.me](https://vibeyuno.me), editorial theme, serverless contact | TypeScript · React · Tailwind |
-| [aerolicense](https://github.com/Yun0-vibe/aerolicense) | License server + Go `aerovibe` client lib for all my products | Go · TypeScript · Next.js |
-| [aeroxdp](https://github.com/Yun0-vibe/aeroxdp) | XDP-based DDoS mitigation firewall | C/XDP · Go |
-| [strenoxcloud](https://github.com/Yun0-vibe/strenoxcloud) | Custom game-server panel (Pterodactyl-inspired, my own) | JavaScript · Full-stack |
-| PlayerTales *(local)* | Paper plugin — player actions → auto-generated storybooks | Java · Paper API · MySQL |
-| ServerPulse *(local)* | Paper plugin — engagement engine that fires events on activity drops | Java · Paper API |
-| BattlePass Live *(local)* | Paper 1.21 battle pass — seasons, tiers, quests, Geyser forms | Java 21 · Gradle · SQLite |
+| [strenoxcloud](https://github.com/Yun0-vibe/strenoxcloud) | Flagship infra — game-hosting cloud (React + FastAPI + Postgres, 461 tests) | React · FastAPI · Docker |
+| [aeroxdp](https://github.com/Yun0-vibe/aeroxdp) | Strenox DDoS Migration — XDP firewall, 10M+ pps target | Go · eBPF/XDP · C |
+| [aerolicense](https://github.com/Yun0-vibe/aerolicense) | License server + Go client lib for all Strenox products | Go · TypeScript · Next.js |
+| PlayerTales *(local)* | Paper plugin — player actions → auto-generated storybooks (StrenoxDevelopment) | Java · Paper API · MySQL |
+| ServerPulse *(local)* | Paper plugin — engagement engine for activity drops (StrenoxDevelopment) | Java · Paper API |
+| BattlePass Live *(local)* | Paper 1.21 battle pass — seasons, tiers, quests, Geyser forms (StrenoxDevelopment) | Java 21 · Gradle · SQLite |
 
 *(local) = shipping to GitHub soon — star the profile to get notified.*
 
