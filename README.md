@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=65A30D&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arjan+%F0%9F%91%8B;CEO+of+Strenox+Foundation;Vibe+Coder+%26+AI+Prompter;Minecraft+Plugins+%2B+Game+Infra;Always+Shipping)](https://git.io/typing-svg)
 
-**17 y/o CEO of [Strenox Foundation](https://github.com/Yun0-vibe/portfolio) — I prompt first, then ship production.**
+**17 y/o CEO of Strenox Foundation — I prompt first, then ship production.**
 
 [![Portfolio](https://img.shields.io/badge/🌐_vibeyuno.me-65A30D?style=for-the-badge&logoColor=white)](https://vibeyuno.me)
 [![Discord](https://img.shields.io/badge/Discord-darkwiz.vibe-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/darkwiz.vibe)
@@ -20,7 +20,7 @@
 ```yaml
 name: Arjan Subedi
 aka: YUNO / Yun0-vibe
-role: Founder & CEO, Strenox Foundation
+role: CEO, Strenox Foundation
 foundation:
   - StrenoxCloud Hosting      # live — game-server cloud
   - StrenoxDevelopment        # active — plugins, panels, infra
@@ -121,7 +121,7 @@ fun_fact: "CEO by title, debugger by profession."
 | Project | What | Stack |
 |---|---|---|
 | [portfolio](https://github.com/Yun0-vibe/portfolio) | My site — [vibeyuno.me](https://vibeyuno.me), editorial theme, serverless contact | TypeScript · React · Tailwind |
-| [strenoxcloud](https://github.com/Yun0-vibe/strenoxcloud) | Flagship infra — game-hosting cloud (React + FastAPI + Postgres, 461 tests) | React · FastAPI · Docker |
+| [strenoxcloud](https://github.com/Yun0-vibe/strenoxcloud) | Flagship infra — game-hosting cloud ([site](https://www.strenoxcloud.xyz) · [discord](https://dsc.gg/strenoxcloud)) | React · FastAPI · Docker |
 | [aeroxdp](https://github.com/Yun0-vibe/aeroxdp) | Strenox DDoS Migration — XDP firewall, 10M+ pps target | Go · eBPF/XDP · C |
 | [aerolicense](https://github.com/Yun0-vibe/aerolicense) | License server + Go client lib for all Strenox products | Go · TypeScript · Next.js |
 | PlayerTales *(local)* | Paper plugin — player actions → auto-generated storybooks (StrenoxDevelopment) | Java · Paper API · MySQL |
